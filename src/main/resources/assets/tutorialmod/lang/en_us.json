@@ -1,5 +1,8 @@
 {
   "item.tutorialmod.zircon": "Zircon",
   "item.tutorialmod.raw_zircon": "Raw Zircon",
-  "itemGroup.tutorialtab": "Zircon"
+  "itemGroup.tutorialtab": "Zircon",
+  "block.tutorialmod.zircon_block": "Zircon block",
+  "block.tutorialmod.zircon_ore": "Zircon Ore",
+  "block.tutorialmod.deepslate_zircon_ore": "Deepslate Zircon Ore"
 }
